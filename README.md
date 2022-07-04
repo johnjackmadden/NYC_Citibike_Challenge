@@ -16,7 +16,6 @@
 ### Taking a look at the starting and ending points of the citi-bike rides, there seem to not be too signficant of a change for the Mannhatten locations. However, there is a bit larger distribution of ending locations outside of the burrow, which could support my theory that people only use the bikes for short distance excursions.
 Starting Locations                    | Endling Locations                   
 :------------------------------------:|:-----------------------------------:
-![viz 6](/Mod14viz/viz6.png)
-| ![viz 7](/Mod14viz/viz7.png)
+![viz 6](/Mod14viz/viz6.png)            ![viz 7](/Mod14viz/viz7.png)
 ## Summary
 ### In summary, the average person who uses Citi-Bike is male, uses the service for around 5-10 minutes, and does so during the communting hours of the work week. If we want to continue to grow the business, focusing on these areas seem to be the most fruitful areas that we are currently doing well in, like continuing to build the subscription based model of the business. 
