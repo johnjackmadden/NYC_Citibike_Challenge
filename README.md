@@ -14,7 +14,7 @@
 ### Subscription: There seem to be a large amount of people using this service as a part of a subscription, which supports my theory that this is a service for short term transportation for residents, compared to a service for tourist to visit the city with, as seen in the visulization below: 
 ![viz 5](/Mod14viz/viz5.png)
 ### Taking a look at the starting and ending points of the citi-bike rides, there seem to not be too signficant of a change for the Mannhatten locations. However, there is a bit larger distribution of ending locations outside of the burrow, which could support my theory that people only use the bikes for short distance excursions.
-Starting Locations                    | Ending Locations                   
+Starting Locations (Blue) and Ending Locations (Orange)         
 :------------------------------------:|:--------------------------------------:
 ![viz 6](/Mod14viz/viz6.png)            
 | ![viz 7](/Mod14viz/viz7.png)
