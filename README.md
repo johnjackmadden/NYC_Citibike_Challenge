@@ -15,7 +15,7 @@
 ![viz 5](/Mod14viz/viz5.png)
 ### Taking a look at the starting and ending points of the citi-bike rides, there seem to not be too signficant of a change for the Mannhatten locations. However, there is a bit larger distribution of ending locations outside of the burrow, which could support my theory that people only use the bikes for short distance excursions.
 Starting Locations                    | Ending Locations                   
-:------------------------------------:|:-----------------------------------:
+:------------------------------------:|:--------------------------------------:
 ![viz 6](/Mod14viz/viz6.png)            
 | ![viz 7](/Mod14viz/viz7.png)
 ## Summary
